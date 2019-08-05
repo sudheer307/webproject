@@ -3,11 +3,11 @@
 <head>
 <style>
 body {
-  background-color: lightblue;
+  background-color: red;
 }
 
 h1 {
-  color: white;
+  color: green;
   text-align: center;
 }
 
@@ -19,8 +19,8 @@ p {
 </head>
 <body>
 
-<h1>My First CSS Example</h1>
-<p>This is a paragraph.</p>
+<h1>MY NAME IS RASOOL</h1>
+<p>SHAIK.RASOOL.</p>
 
 </body>
 </html>
