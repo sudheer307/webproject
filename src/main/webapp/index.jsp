@@ -3,11 +3,11 @@
 <head>
 <style>
 body {
-  background-color: red;
+  background-color: pink;
 }
 
 h1 {
-  color: green;
+  color: yellow;
   text-align: center;
 }
 
@@ -19,8 +19,8 @@ p {
 </head>
 <body>
 
-<h1>MY NAME IS RASOOL</h1>
-<p>SHAIK.RASOOL.</p>
+<h1>MY NAME IS KISHORE</h1>
+<p>KISHORE TIRUMALA</p>
 
 </body>
 </html>
