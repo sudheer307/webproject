@@ -3,7 +3,7 @@
 <head>
 <style>
 body {
-  background-color: pink;
+  background-color: black;
 }
 
 h1 {
@@ -19,8 +19,8 @@ p {
 </head>
 <body>
 
-<h1>MY NAME IS KISHORE</h1>
-<p>KISHORE TIRUMALA</p>
+<h1>raja is a playboy</h1>
+<p>RAJASHEKAR CHIRAALA</p>
 
 </body>
 </html>
